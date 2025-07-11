@@ -1,7 +1,4 @@
 flask
+flask-cors
 requests
 matplotlib
-tk
-csv
-datetime
-os
